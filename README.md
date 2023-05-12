@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Website
 
-<iframe src="http:chat.openkh.org" frameborder="0"></iframe>
+<div>
+  <iframe src="http:chat.openkh.org" frameborder="0"></iframe>
+</div>
