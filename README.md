@@ -8,9 +8,3 @@
 open-kh/open-kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## Website
-
-<div>
-  <iframe src="http:chat.openkh.org" frameborder="0"></iframe>
-</div>
